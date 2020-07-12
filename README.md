@@ -1,0 +1,1 @@
+Client management tool built on React, Redux and Firebase. Uses Firebase for authentication and Firestore for storing data
